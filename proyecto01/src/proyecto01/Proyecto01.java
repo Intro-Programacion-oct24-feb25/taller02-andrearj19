@@ -14,7 +14,9 @@ public class Proyecto01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       System.out.println("Ejemplo de Java manejado de GithHub versionado a travez de git creado por andrearj19");
+       
+       // TODO code application logic here
     }
     
 }
